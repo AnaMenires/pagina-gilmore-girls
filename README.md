@@ -3,6 +3,7 @@
 
 ## Sobre o Projeto
 
+https://github.com/AnaMenires/pagina-gilmore-girls.git
 
 O Projeto Página Trailer foi Desenvolvido durante o evento online Semana do Programador - Dev em Dobro
 
